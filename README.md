@@ -69,4 +69,6 @@ Options:
           Read additional script object metadata from the given file
   -h, --help
           Print help
+  -V, --version
+          Print version
 ```
