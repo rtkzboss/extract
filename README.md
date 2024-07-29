@@ -1,6 +1,6 @@
 # extract
 ### :biohazard: Experimental
-[Download](https://github.com/rtkzboss/extract/releases/latest/download/extract.zip).
+[Download](https://github.com/rtkzboss/extract/releases/latest/download/extract.exe).
 Uses dark magic to generate cooked packages from I/O store containers for read-only use in the editor.
 - Example usage: `extract --epic -o C:\path\to\CrimeBoss -a /Game/00_Main/Characters/_Mutable/MutableGeneratorImages/T_Wiz_UniqueCharPhoto_0 -a /Game/00_Main/Core/AI/Spawning/BP_CivilianSpawnPoint --and-deps`
 - See https://docs.unrealengine.com/4.27/en-US/WorkingWithContent/CookedContent/ for information on how to use cooked packages in the editor.
