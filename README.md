@@ -59,9 +59,9 @@ Options:
       --stdout <STDOUT>
           [possible values: package-names, file-names]
       --concurrent-rewrites <CONCURRENT_REWRITES>
-          Only generate the given number of packages at once [default: 256]
+          Only generate the given number of packages at once [default: 128]
       --concurrent-imports <CONCURRENT_IMPORTS>
-          Only preload the given number of packages at once [default: 4096]
+          Only preload the given number of packages at once [default: 128]
       --project-dir-name <PROJECT_DIR_NAME>
           The game project directory name [default: CrimeBoss]
       --no-default-script-data
